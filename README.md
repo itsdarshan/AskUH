@@ -11,7 +11,7 @@
 ### CS Department Queries
 <img src="cs_department_queries.png" width="700"/>
 
-### Camous Life Queries
+### Campus Life Queries
 <img src="campus_life_queries.png" width="700"/>
 
 ### Knowledge Base Updation with Question and Answer Chatbot do not know
