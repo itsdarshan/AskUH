@@ -6,7 +6,7 @@
 2. Click on Message or you can go to Facebook Messenger 
 3. Chat window will pop up and you can ask anything to Chatbot regarding Computer Science Department and Campus Live at University of Houston!
 
-## Few Screenshots displaying functionalities of ChatBot
+## Screenshots displaying functionalities of ChatBot
 
 ### CS Department Queries
 <img src="cs_department_queries.png" width="700"/>
