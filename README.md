@@ -1,6 +1,13 @@
 # AskUH
 
-## How to test AskUH Assistant
+ Chatbot to resolve students queries regarding Computer Science Department and Campus Life 
+ 
+ Technology
+ - DialogFlow 
+ - Cloud Functions 
+ - Cloud Storage	
+
+### How to use AskUH Assistant
 
 1. Go to Askuh  [Facebook Page](https://www.facebook.com/profile.php?id=100088157080878)
 2. Click on Message or you can go to Facebook Messenger 
